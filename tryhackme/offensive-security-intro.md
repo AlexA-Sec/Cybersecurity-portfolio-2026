@@ -1,6 +1,6 @@
-#Offensive Security Intro
+Offensive Security Intro
 
-##Platform: TryHackMe
+Platform: TryHackMe
 
 Concepts learned: 
 
